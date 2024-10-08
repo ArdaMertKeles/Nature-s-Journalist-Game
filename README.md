@@ -4,6 +4,7 @@ I used React.js and SCSS in this project. It is also responsive. Your choices wi
 ![Ekran görüntüsü 2024-10-08 131224](https://github.com/user-attachments/assets/8b7a3e75-565b-4469-a7db-cf8a53b9744e)
 ![Ekran görüntüsü 2024-10-08 131255](https://github.com/user-attachments/assets/706b6fdf-4e6e-4b38-986e-d6098a5df478)
 ![Ekran görüntüsü 2024-10-08 131323](https://github.com/user-attachments/assets/b6a84590-478e-4824-9bbe-0f067feca39a)
+## Mobile Design
 ![Ekran görüntüsü 2024-10-08 131347](https://github.com/user-attachments/assets/12d0215f-2186-49b0-adc2-f28809a98f49)
 
 ### `npm start`
