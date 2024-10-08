@@ -1,10 +1,10 @@
-# Getting Started with Create React App
+# This is a dialouge based game made with React.js [Live Server](https://naturesjournalist.netlify.app/)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
+I used React.js and SCSS in this project. It is also responsive. Your choices will effect the storyline in this game.
+![Ekran görüntüsü 2024-10-08 131224](https://github.com/user-attachments/assets/8b7a3e75-565b-4469-a7db-cf8a53b9744e)
+![Ekran görüntüsü 2024-10-08 131255](https://github.com/user-attachments/assets/706b6fdf-4e6e-4b38-986e-d6098a5df478)
+![Ekran görüntüsü 2024-10-08 131323](https://github.com/user-attachments/assets/b6a84590-478e-4824-9bbe-0f067feca39a)
+![Ekran görüntüsü 2024-10-08 131347](https://github.com/user-attachments/assets/12d0215f-2186-49b0-adc2-f28809a98f49)
 
 ### `npm start`
 
